@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohitnsaigal
 - 👀 I’m interested in all types of software with experience in enterprise web apps and microservices
-- 🌱 I’m currently learning vue 3!
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me 
 - phone number: 412-477-2435
